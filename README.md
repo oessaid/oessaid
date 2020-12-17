@@ -8,7 +8,7 @@ I currently serve as CTO of [Moon Health](https://moonhealth.ai), an up-and-comi
 
 ## ⌛ Things I've done:
 
-⚙️ I've worked as a **Tech/Data Science Lead** for an AI consultancy called [Quantmetry](https://www.quantmetry.com/). I've helped several companies of various sizes (from small to Fortune 500/CAC40) and from various industries (including cars, advertising, finance and manufacturing) with their Data Science challenges. That includes but is not limited to:
+⚙️ I've worked as a **Tech/Data Science Lead** for an AI consultancy called [Quantmetry](https://www.quantmetry.com/). I've helped several companies of various sizes (from small to Fortune 500/CAC40) and from various industries (including cars, advertising, finance and manufacturing) with their data science challenges. That includes but is not limited to:
 
 - Clustering and recommendation engines, 
 - Time Series, 
@@ -36,10 +36,10 @@ Here's a list of things I can do:
 
 - **Data Science**, I've worked with all kinds of ML/DL frameworks, mostly in Python and Spark (see the intro above) but also in R (tidyverse/caret). I've done:
   - NER and sentiment analysis for a financial investment firm, 
-  - pipelines for large scale (as in petabytes) data analysis/ML from connected cars, 
-  - anomaly detection in supplier behaviour on a worldwide scale (again for a car manufacturer),
-  - clustering/NLP/recommendations for a large classified advertisements website,
-  - demand forecasting through ML for a manufacturing firm,
+  - Pipelines for large scale (as in petabytes) data analysis/ML from connected cars, 
+  - Anomaly detection in supplier behaviour on a worldwide scale (again for a car manufacturer),
+  - Clustering/NLP/recommendations for a large classified advertisements website,
+  - Demand forecasting through ML for a manufacturing firm,
   - etc.
 
 - **Typescript/Javascript, React, Redux (and Redux Toolkit)** on the frontend. I've worked with Vue.js as well, but I'd rather use React.
@@ -62,7 +62,7 @@ Here's a list of things I can do:
 - Customizing my mechanical keyboard's firmware in C (I use a QWERTY ortholinear layout and proudly use a [Planck](https://ergodox-ez.com/pages/planck) if you're curious).
 
 
-## 📫 How to reach me
+## 📫 How to reach me:
 
 Here's my [linkedin](https://www.linkedin.com/in/omar-essaid-b245503b/). I speak French, English, Spanish and Arabic.
 
