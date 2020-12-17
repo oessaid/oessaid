@@ -56,7 +56,7 @@ I've used **Python (Scikit-Learn, Keras, TensorFlow, Spacy, Gensim, Prophet, etc
 
 ## 📫 How to reach me
 
-Here's my [linkedin](https://www.linkedin.com/in/omar-essaid-b245503b/).
+Here's my [linkedin](https://www.linkedin.com/in/omar-essaid-b245503b/). I speak French, English, Spanish and Arabic.
 
 
 <!--
