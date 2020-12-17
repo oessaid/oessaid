@@ -1,6 +1,6 @@
 # Hi there, I'm Omar Essaid 👋
 
-**TLDR**: Full-stack Software Engineer and Data Scientist, passionate about code. I have a strong engineering background and extensive experience as a Data Scientist.
+**[TL;DR](https://en.wiktionary.org/wiki/too_long;_didn%27t_read#English)**: Full-stack Software Engineer and Data Scientist, passionate about code. I have a strong engineering background and extensive experience as a Data Scientist.
 
 ## ⌛ Things I've done:
 
@@ -10,7 +10,7 @@
 - Time Series, 
 - NLP, 
 - Anomaly Detection, 
-- and Explainable AI techniques.
+- Explainable AI techniques (such as [SHAP](https://github.com/slundberg/shap)).
 
 I've used **Python (Scikit-Learn, Keras, TensorFlow, Spacy, Gensim, Prophet, etc.) and Spark (PySpark, SparkML).**
 
