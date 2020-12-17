@@ -28,7 +28,9 @@ I've used **Python (Scikit-Learn, Keras, TensorFlow, Spacy, Gensim, Prophet, etc
 
 Both actually coding stuff and leading teams/mentoring them into doing so, while getting them and myself better at it. That's a lot of pronouns. 
 
-Anyway, I'm comfortable with GitFlow/GitHub Flow, the agile development process, and I advocate for [TDD](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) and [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882). Specifically:
+Anyway, I'm comfortable with GitFlow/GitHub Flow, the agile development process, and I advocate for [TDD](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) and [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882).
+
+Here's a list of things I can do:
 
 - **Data Science**, I've worked with all kinds of ML/DL frameworks, mostly in Python and Spark (see the intro above) but also in R (tidyverse/caret). I've done:
   - NER and sentiment analysis for a financial investment firm, 
