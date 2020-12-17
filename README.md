@@ -2,6 +2,10 @@
 
 **[TL;DR](https://en.wiktionary.org/wiki/too_long;_didn%27t_read#English)**: Full-stack Software Engineer and Data Scientist, passionate about code. I have a strong engineering background and extensive experience as a Data Scientist.
 
+## 🚧 Things I'm doing:
+
+I currently serve as CTO of [Moon Health](https://moonhealth.ai), an up-and-coming startup out of Paris that brings patients and health professionals closer through telemedicine. My role is to lead technological efforts both on software and data science (and also to actually code them, with the help of my awesome team). 
+
 ## ⌛ Things I've done:
 
 ⚙️ I've worked as a **Tech/Data Science Lead** for an AI consultancy called [Quantmetry](https://www.quantmetry.com/). I've helped several companies of various sizes (from small to Fortune 500/CAC40) and from various industries (including cars, advertising, finance and manufacturing) with their Data Science challenges. That includes but is not limited to:
@@ -19,8 +23,6 @@ I've used **Python (Scikit-Learn, Keras, TensorFlow, Spacy, Gensim, Prophet, etc
 📖 I've been part of the scientific review team of [this book](https://www.amazon.com/Lapprentissage-profond-French-Yoshua-Bengio-ebook/dp/B07JJ8NH24/ref=sr_1_1?dchild=1&keywords=l%27apprentissage+profond&qid=1608226541&sr=8-1), which is the French translation of [this eponymously named other book](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) about Deep Learning, which itself has been described by Elon Musk as: 'written by three experts in the field, Deep Learning is the only comprehensive book on the subject.” I was in charge of Chapter 6, got myself credited in the book and my mom's very proud. It's all thanks to [this guy](https://www.linkedin.com/in/nicolas-bousquet-1bb0502/), who used to be my scientific director and is awesome.
 
 ⚙️ I've been the Head of Forecasting for the French/Africa Consumer Healthcare business at [GSK](https://www.gsk.com/) (actually a joint venture with [Novartis](https://www.novartis.com/)). I have also held a similar role for the European business of [Kimberly-Clark](https://www.kimberly-clark.com/).
-
-⚙️ I currently serve as CTO of [Moon Health](https://moonhealth.ai), an up-and-coming startup out of Paris that brings patients and health professionals closer through telemedicine. My role is to lead technological efforts both on software and data science. 
 
 ## 🔭 Things I'm good at:
 
@@ -53,7 +55,7 @@ Anyway, I'm comfortable with GitFlow/GitHub Flow, the agile development process,
 
 - Native mobile development (Swift and Kotlin/Java),
 
-- Customizing my mechanical keyboard's firmware in C (I use a QWERTY ortholinear layout and proudly use a Planck if you're curious).
+- Customizing my mechanical keyboard's firmware in C (I use a QWERTY ortholinear layout and proudly use a [Planck](https://ergodox-ez.com/pages/planck) if you're curious).
 
 
 ## 📫 How to reach me
