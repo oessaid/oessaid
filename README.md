@@ -4,9 +4,12 @@
 
 ## 🚧 Things I'm doing:
 
-I currently serve as CTO of [Moon Health](https://moonhealth.ai), an up-and-coming startup out of Paris that brings patients and health professionals closer through telemedicine. My role is to lead technological efforts both on software and data science (and also to actually code them, with the help of my awesome team). 
+⚙️ I'm currently the Lead Game Backend Engineer at [Northern Lights Entertainment](https://nebulae.world) a video games studio in Paris, currently developing a Massively Multiplayer Astropolitcs game called Nebulae.
+
 
 ## ⌛ Things I've done:
+
+⚙️ I most recently served as CTO of [Moon Health](https://moonhealth.ai), an up-and-coming startup out of Paris that brings patients and health professionals closer through telemedicine. My role was to lead technological efforts both on software and data science (and also to actually code them, with the help of my awesome team). 
 
 ⚙️ I've worked as a **Tech/Data Science Lead** for an AI consultancy called [Quantmetry](https://www.quantmetry.com/). I've helped several companies of various sizes (from small to Fortune 500/CAC40) and from various industries (including cars, advertising, finance and manufacturing) with their data science challenges. That includes but is not limited to:
 
