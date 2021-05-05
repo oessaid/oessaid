@@ -4,7 +4,7 @@
 
 ## 🚧 Things I'm doing:
 
-⚙️ I'm currently the Lead Game Backend Engineer at [Northern Lights Entertainment](https://nebulae.world) a video games studio in Paris, currently developing a Massively Multiplayer Astropolitcs game called Nebulae.
+⚙️ I'm currently the Lead Game Backend Engineer at [Northern Lights Entertainment](https://nebulae.world) a video games studio in Paris, currently developing a Massively Multiplayer Astropolitcs game called Nebulae. I work mostly with Rust, but I dabble in Unity/C#.
 
 
 ## ⌛ Things I've done:
