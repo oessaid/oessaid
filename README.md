@@ -56,7 +56,7 @@ Here's a list of things I can do:
 - All kinds of tools around **servers, unix shells, testing, CI/CD, cloud deployments and code versioning** (yes, even an interactive git rebase or an [octopus merge](https://marc.info/?l=linux-kernel&m=139033182525831)).
 
 
-## 🌱 Things I'm learning these days:
+## 🌱 Things I do in my spare time:
 
 - Game development (Godot/GDScript, Unity/C#, C++/SDL2/OpenGL), also getting better at Pixel Art (I use Aseprite),
 
