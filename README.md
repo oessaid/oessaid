@@ -37,7 +37,7 @@ Anyway, I'm comfortable with GitFlow/GitHub Flow, the agile development process,
 
 Here's a list of things I can do:
 
-- Systems programming in Rust (and C++ to a lesser extent). That's the main focus of my current job, including linear algebra, 3D geometry, low-level networking and squeezing performance out of CPUs (concurrency, parallelism, etc.).
+- **Systems programming** in Rust (and C++ to a lesser extent). That's the main focus of my current job, including linear algebra, 3D geometry, low-level networking and squeezing performance out of CPUs (concurrency, parallelism, etc.).
 
 - **Data Science**, I've worked with all kinds of ML/DL frameworks, mostly in Python and Spark (see the intro above) but also in R (tidyverse/caret). I've done:
   - NER and sentiment analysis for a financial investment firm, 
