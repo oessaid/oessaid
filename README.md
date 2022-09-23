@@ -1,10 +1,10 @@
 # Hi there, I'm Omar Essaid 👋
 
-**[TL;DR](https://en.wiktionary.org/wiki/too_long;_didn%27t_read#English)**: Full-stack Software Engineer and Data Scientist, passionate about code. I have a strong engineering background and extensive experience as a Data Scientist.
+**[TL;DR](https://en.wiktionary.org/wiki/too_long;_didn%27t_read#English)**: I have a strong engineering background and extensive experience as both a Software Engineer and a Data Scientist.
 
 ## 🚧 Things I'm doing:
 
-⚙️ I'm currently the Lead Game Backend Engineer at [Northern Lights Entertainment](https://nebulae.world) a video games studio in Paris, currently developing a Massively Multiplayer Astropolitcs game called Nebulae. I work mostly with Rust, but I dabble in Unity/C#.
+⚙️ I'm currently the Lead Game Backend Engineer at [Northern Lights Entertainment](https://nebulae.world) a video games studio in Paris, currently developing a Massively Multiplayer Astropolitcs game called Nebulae. I work mostly with Rust (and occasionally C++), but I'm also proficient in Unity/C# (including design patterns and architectural concerns).
 
 
 ## ⌛ Things I've done:
@@ -36,6 +36,8 @@ Both actually coding stuff and leading teams/mentoring them into doing so, while
 Anyway, I'm comfortable with GitFlow/GitHub Flow, the agile development process, and I advocate for [TDD](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) and [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882).
 
 Here's a list of things I can do:
+
+- Systems programming in Rust (and C++ to a lesser extent). That's the main focus of my current job, including linear algebra, 3D geometry, low-level networking and squeezing performance out of CPUs (concurrency, parallelism, etc.).
 
 - **Data Science**, I've worked with all kinds of ML/DL frameworks, mostly in Python and Spark (see the intro above) but also in R (tidyverse/caret). I've done:
   - NER and sentiment analysis for a financial investment firm, 
