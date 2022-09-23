@@ -66,6 +66,8 @@ Here's a list of things I can do:
 
 - Customizing my mechanical keyboard's firmware in C (I use a QWERTY ortholinear layout and proudly use a [Planck](https://ergodox-ez.com/pages/planck) if you're curious).
 
+- Tinkering with my `neovim` configuration (using Lua).
+
 
 ## 📫 How to reach me:
 
